@@ -8,6 +8,6 @@ jobs:
         run: echo "Hello World!"
       - name: Print Goodbye
         run: echo "Done, bye!"
-    steps:
+    steps2:
       - name: Show IP
         run: ifconfig
